@@ -98,3 +98,8 @@ git push -u origin main
 echo "✅ VIBE is now deployed to all open ecosystems (TrustWallet, 1inch, DexTools, CoinGecko, GitHub, GeckoTerminal, DexScreener)."
 echo "🔥 You're live. Now go shill it to the world!"
 
+# === Auto-submit to global platforms after deploy ===
+echo "🚀 Auto-submitting VIBE to global platforms..."
+chmod +x ./submit_vibe_everywhere.sh
+./submit_vibe_everywhere.sh
+
