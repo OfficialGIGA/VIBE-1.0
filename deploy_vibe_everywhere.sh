@@ -103,3 +103,8 @@ echo "🚀 Auto-submitting VIBE to global platforms..."
 chmod +x ./submit_vibe_everywhere.sh
 ./submit_vibe_everywhere.sh
 
+# === Auto-submit to global platforms after deploy ===
+echo "🚀 Auto-submitting VIBE to global platforms..."
+chmod +x ./submit_vibe_everywhere.sh
+./submit_vibe_everywhere.sh
+
