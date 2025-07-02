@@ -1,0 +1,16 @@
+{
+  "name": "VIBE",
+  "symbol": "VIBE",
+  "type": "ERC20",
+  "decimals": 18,
+  "chainId": 8453,
+  "address": "0x8A09a9683B5401bf1fa80d1724c103c035A4EA22",
+  "explorer": "https://basescan.org/token/0x8A09a9683B5401bf1fa80d1724c103c035A4EA22",
+  "description": "VIBE is the most culturally dominant, AI-powered, meme-fueled token on Base. No bots. No fees. Just fire.",
+  "status": "active",
+  "links": {
+    "twitter": "https://twitter.com/OfficialGIGA",
+    "telegram": "https://t.me/OfficialGIGA",
+    "github": "https://github.com/OfficialGIGA/VIBE-1.0"
+  }
+}
